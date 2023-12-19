@@ -30,7 +30,7 @@ Publish the website in the given URL.
 ## PROGRAM:
 ```
 <html>
-<title>AMAZON</title>
+<title>MICROSOFT</title>
 <style>
     body{
         background:url(bg.jpg);
@@ -170,14 +170,14 @@ Publish the website in the given URL.
         </div>
     </form>
 
-    <h1>WELCOME TO AMAZON</h1>
-    <h2>where consumers can find and discover anything they want to buy online </h2>
+    <h1>WELCOME TO MICROSOFT</h1>
+    <h2>The way to be successful in software world is comeup with breakthrough software</h2>
     <h2>PRODUCTS</h2>
     <a href="sign.html">
         <input type="button" value="JOIN US" class="join">
     </a>  
     
-    <h3>"Amazon is the magic and happy chaos out of book shopping"</h3>
+    <h3>"New ideas,surprising the market place,so good engineering and good business are one in the same"</h3>
 
          <center>
         <div class="login">
@@ -201,6 +201,8 @@ Publish the website in the given URL.
     <P style="color:#ffffff; ;"align="center">Designed and Devoloped by NAVYA 2023 </P>
 </footer>
 </html>                
+
+
 
 
 
@@ -726,7 +728,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Alt text](<Screenshot (4).png>)
+![Alt text](<Screenshot (9).png>)
+
 
 ![Alt text](<Screenshot (5).png>)
 
