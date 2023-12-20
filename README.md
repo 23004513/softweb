@@ -297,7 +297,7 @@ Publish the website in the given URL.
 <title>about us</title>
 <style>
     p{
-        color: black;
+        color: red;
     }
     body{
         background:url(bg.jpg);
@@ -408,7 +408,7 @@ Publish the website in the given URL.
 
 </DIV>
 </body>
-<footer style="background-color:Black;margin-top: 143; border: none;">
+<footer style="background-color:red;margin-top: 143; border: none;">
     <P style="color:#ffffff; ;"align="center">Designed and Devoloped by NAVYA 2023 </P>
 </footer>
 </html>
@@ -730,7 +730,8 @@ Publish the website in the given URL.
 
 ![Alt text](<Screenshot (9).png>)
 ![Alt text](<Screenshot (10).png>)
-![Alt text](<Screenshot (6).png>)
+
+![Alt text](<Screenshot (11).png>)
 
 ![Alt text](<Screenshot (7).png>)
 
