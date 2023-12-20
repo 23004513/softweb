@@ -729,10 +729,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ![Alt text](<Screenshot (9).png>)
-
-
-![Alt text](<Screenshot (5).png>)
-
+![Alt text](<Screenshot (10).png>)
 ![Alt text](<Screenshot (6).png>)
 
 ![Alt text](<Screenshot (7).png>)
